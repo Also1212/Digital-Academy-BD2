@@ -1,0 +1,6 @@
+{
+  "name": "Digital Academy BD",
+  "description": "বাংলাদেশের প্রিমিয়াম ডিজিটাল প্রোডাক্ট ও মেটা অ্যাডস মার্কেটিং প্ল্যাটফর্ম — Digital Academy BD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
